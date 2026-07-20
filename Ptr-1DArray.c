@@ -10,11 +10,11 @@ int main(){
         scanf("%d",&arr[i]);
     }
     a = &arr[0];
-    printf("\nThe 1D array is : \n");
+    printf("\nThe 1D array is... : \n");
     for(i=0;i<n;i++){
         printf("%d ",*(a+i));
     }
     
-    
+
 
 }
