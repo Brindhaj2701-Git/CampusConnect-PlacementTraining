@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class DdMmYy {
      public static void main(String[] args) {
- 	    int d,m,y,sum =0;
+      int d,m,y,sum =0;
 	  Scanner sc=new Scanner(System.in);
 	  d=sc.nextInt();
 	  m=sc.nextInt();
