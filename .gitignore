@@ -1,21 +1,20 @@
-# Ignore executable files
+# C
 *.exe
-
-# Ignore object files
 *.o
 *.obj
 
-# Ignore debug files
-*.pdb
+# Java
+*.class
+*.jar
 
-# Ignore log files
+# Logs
 *.log
 
-# Ignore temporary files
-*.tmp
-
-# Ignore Visual Studio Code settings
+# VS Code
 .vscode/
 
-# Ignore Git metadata inside subfolders (if accidentally created)
-**/.git
+# IntelliJ
+.idea/
+
+# Temporary files
+*.tmp
